@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=backgroundplay
+comment1.params=
+comment1.target=backgroundplay()
+comment2.params=
+comment2.target=void\ UpdateTali()
+comment3.params=
+comment3.target=void\ prepareSudut()
+comment4.params=
+comment4.target=void\ act()
+numComments=5
