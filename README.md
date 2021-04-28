@@ -1,5 +1,5 @@
 # SimulatorBandulOnline
-Will be Create new Simulator Pendulum online
+Will be Create new Simulator Bandul online
 
 Anggota :
 
