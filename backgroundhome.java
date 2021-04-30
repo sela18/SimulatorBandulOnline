@@ -15,8 +15,9 @@ public class backgroundhome extends World
      */
     public backgroundhome()
     {    
-        // Create a new world with 600x400 cells with a cell size of 1 centimeters.
+        // Create a new world with 600x400 cells with a cell size of 1x1 pixels.
         super(400, 700, 1); 
+
         prepare();
     }
 
@@ -26,5 +27,7 @@ public class backgroundhome extends World
      */
     private void prepare()
     {
+        play play = new play();
+        addObject(play,191,591);
     }
 }
