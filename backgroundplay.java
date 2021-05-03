@@ -23,7 +23,7 @@ public class backgroundplay extends World
 
         prepareSudut();
         UpdateTali();
-        
+
         backSound = new GreenfootSound("Patakas sound.mp3");
         backSound.playLoop();
 
@@ -70,5 +70,11 @@ public class backgroundplay extends World
 
         }
     }
-        
+
+    
+    private void prepare()
+    {
+        exit exit = new exit();
+        addObject(exit,330,83);
+    }
 }

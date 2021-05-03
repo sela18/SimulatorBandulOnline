@@ -28,6 +28,7 @@ public class backgroundhome extends World
     private void prepare()
     {
         play play = new play();
-        addObject(play,191,591);
+        addObject(play,197,593);
+      
     }
 }
