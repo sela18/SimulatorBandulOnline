@@ -7,6 +7,6 @@ Anggota :
 
 2.AVISENA HARWANTI    (08)  aktif
 
-3.NOVRINDA AZZAHRA    (26)  aktif
+3.NOVRINDA AZZAHRA    (26)  
 
-4.NUR AMALIA RISKI    (27)
+4.NUR AMALIA RISKI    (27)  aktif
